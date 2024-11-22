@@ -1,0 +1,49 @@
+Slide 1: Title Slide
+Title: Human Following Robot Working Model
+Subtitle: Demonstration of Robotics Technology for Automation and Assistance
+Include an image or icon of a robot for visual appeal.
+Slide 2: Introduction
+Briefly explain what a human-following robot is.
+Mention its purpose: e.g., assisting with tasks, enhancing automation, or aiding disabled individuals.
+Slide 3: Objectives
+Highlight the goals of the working model:
+To develop a robot capable of following a human.
+To integrate motion sensing and path-planning technologies.
+Slide 4: Components Used
+List the hardware components:
+Microcontroller: e.g., Arduino or Raspberry Pi.
+Sensors: Ultrasonic, PIR, or LIDAR for obstacle detection and human tracking.
+Motors: Servo or DC motors for movement.
+Battery: For power supply.
+Chassis: Robot frame.
+Mention software: Python, ROS, or Arduino IDE.
+Slide 5: Working Principle
+Explain the logic:
+The robot detects the human using sensors (infrared, ultrasonic, or cameras).
+Processes the data via the microcontroller.
+Adjusts its movement to follow the human.
+Use a flowchart to represent the process.
+Slide 6: Block Diagram
+Display a block diagram showing the connections between sensors, microcontroller, motors, and power supply.
+Slide 7: Algorithm/Flowchart
+Present a simplified algorithm or flowchart:
+Sense the target (human).
+Calculate the distance and direction.
+Navigate towards the target.
+Avoid obstacles.
+Slide 8: Prototype Design
+Show images or videos of the robot prototype.
+Label the components in the design.
+Slide 9: Applications
+Mention potential use cases:
+Elderly assistance.
+Logistics and warehouse automation.
+Security and surveillance.
+Slide 10: Challenges and Future Scope
+Discuss challenges like accuracy, battery life, or environmental interference.
+Highlight future improvements: AI integration, better sensors, or multi-target tracking.
+Slide 11: Conclusion
+Summarize the purpose and success of the working model.
+Reinforce its potential impact on various fields.
+Slide 12: Q&A
+Include a closing slide inviting questions and feedback.
